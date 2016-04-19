@@ -76,3 +76,4 @@ if __name__ == '__main__':
         for wx, la in zip(sw, sl): print idx2w[wx].rjust(wlength), idx2la[la].rjust(wlength)
         print '\n'+'**'*30+'\n'
         pdb.set_trace()
+        
